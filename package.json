@@ -1,0 +1,37 @@
+{
+  "name": "wellhello-admin",
+  "version": "0.0.1",
+  "description": "Well Hello administration panel",
+  "main": "src/index.html",
+  "keywords": [
+    "admin"
+  ],
+  "private": true,
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": {
+    "name": "Team CMP",
+    "url": "http://www.teamcmp.com",
+    "email": "<contact@teamcmp.com>"
+  },
+  "homepage": "http://wellhello-admin.org",
+  "contributors": [
+    {
+      "name": "Alfons Foubert",
+      "url": "http://alfonsfoubert.com",
+      "email": "<alfons.foubert@gmail.com>"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-bower-task": "^0.3.4",
+    "grunt-nodemon": "^0.2.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-sass": "^0.12.1",
+    "grunt-concurrent": "^0.5.0",
+    "grunt-contrib-concat": "^0.4.0"
+  }
+}

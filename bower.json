@@ -1,0 +1,27 @@
+{
+  "name": "wellhello-admin",
+  "version": "0.0.1",
+  "authors": [
+    "Alfons Foubert <alfons.foubert@gmail.com>"
+  ],
+  "description": "Admin panel for the Phantoms",
+  "main": "src/index.html",
+  "keywords": [
+    "admin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/vendor",
+    "test",
+    "tests",
+    "dist"
+  ],
+  "dependencies": {
+    "foundation": "~5.2.2",
+    "foundation-icons": "*",
+    "angular": "~1.2.16",
+    "angular-route": "~1.2.16"
+  }
+}

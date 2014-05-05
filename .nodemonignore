@@ -1,0 +1,6 @@
+/.sass-cache/*
+/app/*
+/dist/*
+/docs/*
+/node_modules/*
+/test/*
