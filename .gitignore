@@ -3,4 +3,5 @@ node_modules
 app/vendor
 bower_components
 app/css/app.css
+app/js/app.js
 npm-debug.log
